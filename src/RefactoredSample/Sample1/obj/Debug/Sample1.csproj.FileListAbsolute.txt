@@ -1,0 +1,23 @@
+d:\SRP\SRP\src\RefactoredSample\Sample1\bin\Debug\Products.xml
+d:\SRP\SRP\src\RefactoredSample\Sample1\bin\Debug\Sample1.exe
+d:\SRP\SRP\src\RefactoredSample\Sample1\bin\Debug\Sample1.pdb
+d:\SRP\SRP\src\RefactoredSample\Sample1\bin\Debug\nunit.framework.dll
+d:\SRP\SRP\src\RefactoredSample\Sample1\bin\Debug\Rhino.Mocks.dll
+d:\SRP\SRP\src\RefactoredSample\Sample1\obj\Debug\Sample1.csprojResolveAssemblyReference.cache
+d:\SRP\SRP\src\RefactoredSample\Sample1\obj\Debug\Sample1.Form1.resources
+d:\SRP\SRP\src\RefactoredSample\Sample1\obj\Debug\Sample1.Properties.Resources.resources
+d:\SRP\SRP\src\RefactoredSample\Sample1\obj\Debug\Sample1.csproj.GenerateResource.Cache
+d:\SRP\SRP\src\RefactoredSample\Sample1\obj\Debug\Sample1.exe
+d:\SRP\SRP\src\RefactoredSample\Sample1\obj\Debug\Sample1.pdb
+C:\AU\Software Architecture Workshop.7z\Samples\Module 1 - Software Design\SRP - Refactoring\src\RefactoredSample\Sample1\bin\Debug\Products.xml
+C:\AU\Software Architecture Workshop.7z\Samples\Module 1 - Software Design\SRP - Refactoring\src\RefactoredSample\Sample1\bin\Debug\Sample1.exe
+C:\AU\Software Architecture Workshop.7z\Samples\Module 1 - Software Design\SRP - Refactoring\src\RefactoredSample\Sample1\bin\Debug\Sample1.pdb
+C:\AU\Software Architecture Workshop.7z\Samples\Module 1 - Software Design\SRP - Refactoring\src\RefactoredSample\Sample1\bin\Debug\nunit.framework.dll
+C:\AU\Software Architecture Workshop.7z\Samples\Module 1 - Software Design\SRP - Refactoring\src\RefactoredSample\Sample1\bin\Debug\Rhino.Mocks.dll
+C:\AU\Software Architecture Workshop.7z\Samples\Module 1 - Software Design\SRP - Refactoring\src\RefactoredSample\Sample1\obj\Debug\Sample1.csprojResolveAssemblyReference.cache
+C:\AU\Software Architecture Workshop.7z\Samples\Module 1 - Software Design\SRP - Refactoring\src\RefactoredSample\Sample1\obj\Debug\Sample1.Form1.resources
+C:\AU\Software Architecture Workshop.7z\Samples\Module 1 - Software Design\SRP - Refactoring\src\RefactoredSample\Sample1\obj\Debug\Sample1.Properties.Resources.resources
+C:\AU\Software Architecture Workshop.7z\Samples\Module 1 - Software Design\SRP - Refactoring\src\RefactoredSample\Sample1\obj\Debug\Sample1.csproj.GenerateResource.Cache
+C:\AU\Software Architecture Workshop.7z\Samples\Module 1 - Software Design\SRP - Refactoring\src\RefactoredSample\Sample1\obj\Debug\Sample1.csproj.CoreCompileInputs.cache
+C:\AU\Software Architecture Workshop.7z\Samples\Module 1 - Software Design\SRP - Refactoring\src\RefactoredSample\Sample1\obj\Debug\Sample1.exe
+C:\AU\Software Architecture Workshop.7z\Samples\Module 1 - Software Design\SRP - Refactoring\src\RefactoredSample\Sample1\obj\Debug\Sample1.pdb
